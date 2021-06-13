@@ -1,1 +1,1 @@
-# Unsupervised-learning-Iris-dataset-classification
+This is an impementation of Expectation Maximization to cluster Iris dataset (See sklearn.load_iris). [SEE BELOW FOR AN ALTERNATIVE VERSION FOR Q1]. The Iris dataset is a well-known example, with three types of Irises which can be classified using 4-dimensional measurements (sepal length, sepal width, petal length, petal width).
