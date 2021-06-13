@@ -15,6 +15,6 @@ We properly initialized the mean and standard deviation of each cluster. Then im
 
 --------------------------------------------
 
-![Uploading Screen Shot 2021-06-13 at 2.55.02 PM.png…]()
+![Screen Shot 2021-06-13 at 2 55 02 PM](https://user-images.githubusercontent.com/62679750/121818041-3e0c0f00-cc5b-11eb-87a1-48ac4f661a2c.png)
 
 
