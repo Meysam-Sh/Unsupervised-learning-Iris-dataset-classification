@@ -6,9 +6,11 @@ The Iris dataset can at least be partially clustered using even just one dimensi
    Considering the scatterplots of iris dataset, we can classify the data to two clusters regarding "Petal Length" dimension. In this case, Versicolor and Virginia    flowers are get grouped together.
 
    We properly initialized the mean and standard deviation of each cluster. Then implemented EM algorithm. We also calculated log likelihood. Based on the   convergence of the log-likelihood we selected an appropriate number of iterations to run. 
+   
+**Three cluster for one dimension (Petal Width)**
+  Here, three Gaussian distributions are considered to classify dataset based one the fourth dimension which is "Petal Width". According to dataset scatterplot, it can be suggested that Versicolor and Virginia flowers are still a bit hard to be classified. 
 
 **Three clusters for all dimensions (whole of dataset)**
   In this case, we defined three Gaussian distributions which are initialized with proper means and standard deviations. In the implementation, the dataset is clustered based on each dimension iteratively.
 
-**Three cluster for one dimension (Petal Width)**
-  Here, three Gaussian distributions are considered to classify dataset based one the fourth dimension which is "Petal Width". According to dataset scatterplot, it can be suggested that Versicolor and Virginia flowers are still a bit hard to be classified. 
+
